@@ -1,8 +1,0 @@
-[package]
-name = "pawnageddon"
-version = "0.1.0"
-edition = "2021"
-description = "A 2D chess game with a twist"
-
-[dependencies]
-macroquad = "0.4"
